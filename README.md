@@ -1,1 +1,2 @@
-在codeforcs的比赛中每次ac过的代码
+codeforce 比赛
+ac的题目代码
