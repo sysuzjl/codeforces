@@ -1,0 +1,1 @@
+在codeforcs的比赛中每次ac过的代码
